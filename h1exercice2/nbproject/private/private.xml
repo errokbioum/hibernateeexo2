@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/OUMAIMA/Documents/NetBeansProjects/h1exercice2/src/ma/projet/dao/Idao.java</file>
+            <file>file:/C:/Users/OUMAIMA/Documents/NetBeansProjects/h1exercice2/src/ma/projet/util/NewHibernateUtil.java</file>
+            <file>file:/C:/Users/OUMAIMA/Documents/NetBeansProjects/h1exercice2/src/ma/projet/test/H1exercice2.java</file>
+            <file>file:/C:/Users/OUMAIMA/Documents/NetBeansProjects/h1exercice2/src/ma/projet/beans/Categorie.java</file>
+            <file>file:/C:/Users/OUMAIMA/Documents/NetBeansProjects/h1exercice2/src/ma/projet/service/CommandeService.java</file>
+            <file>file:/C:/Users/OUMAIMA/Documents/NetBeansProjects/h1exercice2/src/ma/projet/service/CategorieService.java</file>
+            <file>file:/C:/Users/OUMAIMA/Documents/NetBeansProjects/h1exercice2/src/ma/projet/service/ProduitService.java</file>
+            <file>file:/C:/Users/OUMAIMA/Documents/NetBeansProjects/h1exercice2/src/ma/projet/service/LigneCommandeService.java</file>
+            <file>file:/C:/Users/OUMAIMA/Documents/NetBeansProjects/h1exercice2/src/ma/projet/beans/Commande.java</file>
+            <file>file:/C:/Users/OUMAIMA/Documents/NetBeansProjects/h1exercice2/src/ma/projet/beans/LigneCommandeProduit.java</file>
+            <file>file:/C:/Users/OUMAIMA/Documents/NetBeansProjects/h1exercice2/src/ma/projet/beans/Produit.java</file>
+            <file>file:/C:/Users/OUMAIMA/Documents/NetBeansProjects/h1exercice2/src/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/OUMAIMA/Documents/NetBeansProjects/h1exercice2/build/classes/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/OUMAIMA/Documents/NetBeansProjects/h1exercice2/src/ma/projet/beans/ProduitCommandePk.java</file>
+        </group>
+    </open-files>
+</project-private>
