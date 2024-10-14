@@ -33,7 +33,7 @@ java .
 neatbeans.
 ## Méthodes utilisées
 
-    - `creat (T o) ` :  crée des enregistrements dans la base de donnée. 
+    - `  creat (T o) ` :  crée des enregistrements dans la base de donnée. 
   
   - `  delete (T o) `: supprimer des enregistrements dans la base de donne.
 
