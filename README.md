@@ -43,7 +43,7 @@ neatbeans.
 
    - `getAll () `:récupérer toute les enregistrements
 
-   -   - `ListM () `:permettant d’afficher la liste des produits par catégorie
+   -  `ListM () `:permettant d’afficher la liste des produits par catégorie
 
 
   - `getLigne () `:permettant d’afficher les produits commandés dans une commande donnée
@@ -67,8 +67,12 @@ Pour tester le projet :
 
 
 
-https://github.com/user-attachments/assets/c01aebb0-5635-45d5-a44d-2aea7c05d041
 
+
+
+
+
+https://github.com/user-attachments/assets/7beb09d5-6029-4ca1-b3bc-58471e6d873c
 
 
 
